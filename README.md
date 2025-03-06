@@ -53,29 +53,29 @@ A comprehensive education platform built with Next.js, TypeScript, and Tailwind 
 ### Installation
 
 1. Clone the repository:
-\`\`\`bash
+```bash
 git clone https://github.com/akshitpareta/vedsala.git
-\`\`\`
+```
 
 2. Install dependencies:
-\`\`\`bash
+```bash
 cd vedsala
 npm install
-\`\`\`
+```
 
 3. Set up environment variables:
-Create a \`.env\` file in the root directory and add necessary environment variables.
+Create a `.env` file in the root directory and add necessary environment variables.
 
 4. Run the development server:
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
-The application will be available at \`http://localhost:3000\`
+The application will be available at `http://localhost:3000`
 
 ## 🏗️ Project Structure
 
-\`\`\`
+```
 vedsala/
 ├── app/                    # Next.js app directory
 │   ├── (dashboard)/       # Dashboard routes
@@ -86,7 +86,7 @@ vedsala/
 ├── lib/                   # Utility functions and helpers
 ├── public/               # Static assets
 └── styles/               # Global styles
-\`\`\`
+```
 
 ## 🎨 UI Components
 - Built using shadcn/ui components
@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - All contributors and supporters
 
 ## 📞 Contact
-For any queries or support, please reach out to [your-email@example.com]
+For any queries or support, please reach out to [akshitpareta@gmail.com]
 
 ---
-Built with ❤️ by Akshit Pareta 
+Built with ❤️ by Akshit Pareta
